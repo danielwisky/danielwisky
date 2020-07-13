@@ -1,16 +1,13 @@
-### Hi there 👋
+# Daniel Wisky :nerd_face:
 
-<!--
-**danielwisky/danielwisky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/danielwisky)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielwisky/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/danielwisky/)
 
-Here are some ideas to get you started:
+### Olá! :wave: Seja bem-vindo ao meu perfil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Daniel e sou desenvolvedor back-end.
+
+- :blue_heart: Apaixonado por Tecnologia
+- :coffee: Java
+- :green_heart: NoSQL

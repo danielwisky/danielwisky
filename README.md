@@ -12,3 +12,7 @@ Meu nome é Daniel e sou desenvolvedor back-end.
 - :coffee: Java
 - :green_heart: NoSQL
 - :envelope: Mensageria/Streams
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielwisky&layout=compact&hide=html" alt="danielwisky" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielwisky&show_icons=true" alt="danielwisky" />

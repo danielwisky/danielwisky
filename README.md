@@ -14,3 +14,5 @@ Meu nome é Daniel e sou desenvolvedor back-end.
 - :envelope: Mensageria/Streams
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielwisky&show_icons=true&count_private=true&locale=pt-BR" alt="danielwisky" />
+
+![Snake animation](https://github.com/danielwisky/danielwisky/blob/output/github-contribution-grid-snake.svg)

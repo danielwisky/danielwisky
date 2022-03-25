@@ -9,7 +9,7 @@
 Meu nome é Daniel e eu sou desenvolvedor back-end.
 
 - :blue_heart: Apaixonado por Tecnologia
-- :coffee: Java
+- :coffee: Java/Kotlin
 - :green_heart: NoSQL
 - :envelope: Mensageria/Streams
 

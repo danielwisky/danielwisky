@@ -6,7 +6,7 @@
 
 # Olá! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" /> Seja bem-vindo ao meu perfil
 
-Meu nome é Daniel e eu sou desenvolvedor back-end.
+Meu nome é Daniel Wisky e eu sou desenvolvedor back-end.
 
 - :blue_heart: Apaixonado por Tecnologia
 - :coffee: Java/Kotlin

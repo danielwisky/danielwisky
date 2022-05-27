@@ -1,8 +1,3 @@
-<div style="display: flex">
-<img src = "https://komarev.com/ghpvc/?username=danielwisky&label=Profile%20views&color=brightgreen" alt="danielwisky"  style="float:right, margin-right:10px"/>
-<img src="https://img.shields.io/github/followers/danielwisky?label=Follow&color=brightgreen" alt="danielwisky" style="float:left" />
-</div>
-
 # Olá! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" /> Seja bem-vindo ao meu perfil
 
 - :blue_heart: Apaixonado por Tecnologia

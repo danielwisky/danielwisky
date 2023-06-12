@@ -15,8 +15,8 @@ Meu nome é Daniel e eu sou desenvolvedor back-end.
 - :envelope: Mensageria/Streams
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielwisky&show_icons=true&count_private=true&locale=pt-BR&theme=dracula" alt="danielwisky" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielwisky&layout=compact&langs_count=7&count_private=true&locale=pt-BR&theme=dracula" alt="danielwisky" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielwisky&show_icons=true&count_private=true&locale=pt-BR" alt="danielwisky" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielwisky&layout=compact&langs_count=7&count_private=true&locale=pt-BR" alt="danielwisky" />
 </div>
 
 ![Snake animation](https://github.com/danielwisky/danielwisky/blob/output/github-contribution-grid-snake.svg)

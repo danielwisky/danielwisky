@@ -14,10 +14,13 @@ Meu nome é Daniel e eu sou desenvolvedor back-end.
 - :green_heart: NoSQL
 - :envelope: Mensageria/Streams
 
-<div>
+<picture>
   <img src="https://github-readme-stats.vercel.app/api?username=danielwisky&show_icons=true&locale=pt-BR&theme=transparent" alt="danielwisky" />
+</picture>
+<picture>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielwisky&layout=compact&langs_count=7&count_private=true&locale=pt-BR&theme=transparent" alt="danielwisky" />
-</div>
+</picture>
+
 
 ![Snake animation](https://github.com/danielwisky/danielwisky/blob/output/github-contribution-grid-snake.svg)
 
